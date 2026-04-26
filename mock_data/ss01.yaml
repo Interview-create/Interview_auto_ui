@@ -1,0 +1,407 @@
+{
+  "json_str_base":
+    {
+      "spin_id": 159100023551139840,
+      "spin_type": 0,
+      "grid":
+        [
+          { "position": 11, "code": 1 },
+          { "position": 21, "code": 1 },
+          { "position": 31, "code": 1 },
+          { "position": 12, "code": 1 },
+          { "position": 22, "code": 1 },
+          { "position": 32, "code": 1 },
+          { "position": 13, "code": 1 },
+          { "position": 23, "code": 1 },
+          { "position": 33, "code": 1 },
+          { "position": 14, "code": 1 },
+          { "position": 24, "code": 1 },
+          { "position": 34, "code": 1 },
+          { "position": 15, "code": 1 },
+          { "position": 25, "code": 1 },
+          { "position": 35, "code": 1 },
+        ],
+      "scatter": {},
+      "bet": 1.0,
+    },
+  "symbol_codes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 101, 102, 105, 110],
+  "pay_lines_variants":
+    [
+      [
+        {
+          "id": 1,
+          "positions": [21, 22, 23, 24, 25],
+          "hit_positions": [21, 22, 23, 24, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 2,
+          "positions": [11, 12, 13, 14, 15],
+          "hit_positions": [11, 12, 13, 14, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 3,
+          "positions": [31, 32, 33, 34, 35],
+          "hit_positions": [31, 32, 33, 34, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 4,
+          "positions": [11, 22, 33, 24, 15],
+          "hit_positions": [11, 22, 33, 24, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 5,
+          "positions": [31, 22, 13, 24, 35],
+          "hit_positions": [31, 22, 13, 24, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 6,
+          "positions": [21, 12, 13, 14, 25],
+          "hit_positions": [21, 12, 13, 14, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 7,
+          "positions": [21, 32, 33, 34, 25],
+          "hit_positions": [21, 32, 33, 34, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 8,
+          "positions": [11, 12, 23, 34, 35],
+          "hit_positions": [11, 12, 23, 34, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 9,
+          "positions": [31, 32, 23, 14, 15],
+          "hit_positions": [31, 32, 23, 14, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 10,
+          "positions": [21, 12, 23, 34, 25],
+          "hit_positions": [21, 12, 23, 34, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 11,
+          "positions": [21, 32, 23, 14, 25],
+          "hit_positions": [21, 32, 23, 14, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 12,
+          "positions": [11, 22, 23, 24, 15],
+          "hit_positions": [11, 22, 23, 24, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 13,
+          "positions": [31, 22, 23, 24, 35],
+          "hit_positions": [31, 22, 23, 24, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 14,
+          "positions": [11, 22, 13, 24, 15],
+          "hit_positions": [11, 22, 13, 24, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 15,
+          "positions": [31, 22, 33, 24, 35],
+          "hit_positions": [31, 22, 33, 24, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 16,
+          "positions": [21, 22, 13, 24, 25],
+          "hit_positions": [21, 22, 13, 24, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 17,
+          "positions": [21, 22, 33, 24, 25],
+          "hit_positions": [21, 22, 33, 24, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 18,
+          "positions": [11, 12, 33, 14, 15],
+          "hit_positions": [11, 12, 33, 14, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 19,
+          "positions": [31, 32, 13, 34, 35],
+          "hit_positions": [31, 32, 13, 34, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 20,
+          "positions": [11, 32, 33, 34, 15],
+          "hit_positions": [11, 32, 33, 34, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 21,
+          "positions": [31, 12, 13, 14, 35],
+          "hit_positions": [31, 12, 13, 14, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 22,
+          "positions": [21, 12, 33, 14, 25],
+          "hit_positions": [21, 12, 33, 14, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 23,
+          "positions": [21, 32, 13, 34, 25],
+          "hit_positions": [21, 32, 13, 34, 25],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 24,
+          "positions": [11, 32, 13, 34, 15],
+          "hit_positions": [11, 32, 13, 34, 15],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 25,
+          "positions": [31, 12, 33, 14, 35],
+          "hit_positions": [31, 12, 33, 14, 35],
+          "payout": 1.2,
+        },
+      ],
+      [
+        {
+          "id": 1,
+          "positions": [21, 22, 23, 24, 25],
+          "hit_positions": [21, 22, 23, 24, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 2,
+          "positions": [11, 12, 13, 14, 15],
+          "hit_positions": [11, 12, 13, 14, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 3,
+          "positions": [31, 32, 33, 34, 35],
+          "hit_positions": [31, 32, 33, 34, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 4,
+          "positions": [11, 22, 33, 24, 15],
+          "hit_positions": [11, 22, 33, 24, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 5,
+          "positions": [31, 22, 13, 24, 35],
+          "hit_positions": [31, 22, 13, 24, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 6,
+          "positions": [21, 12, 13, 14, 25],
+          "hit_positions": [21, 12, 13, 14, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 7,
+          "positions": [21, 32, 33, 34, 25],
+          "hit_positions": [21, 32, 33, 34, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 8,
+          "positions": [11, 12, 23, 34, 35],
+          "hit_positions": [11, 12, 23, 34, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 9,
+          "positions": [31, 32, 23, 14, 15],
+          "hit_positions": [31, 32, 23, 14, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 10,
+          "positions": [21, 12, 23, 34, 15],
+          "hit_positions": [21, 12, 23, 34, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 11,
+          "positions": [21, 32, 23, 14, 25],
+          "hit_positions": [21, 32, 23, 14, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 12,
+          "positions": [11, 22, 23, 24, 15],
+          "hit_positions": [11, 22, 23, 24, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 13,
+          "positions": [31, 22, 23, 24, 35],
+          "hit_positions": [31, 22, 23, 24, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 14,
+          "positions": [11, 22, 13, 24, 15],
+          "hit_positions": [11, 22, 13, 24, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 15,
+          "positions": [31, 22, 33, 24, 35],
+          "hit_positions": [31, 22, 33, 24, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 16,
+          "positions": [21, 22, 13, 24, 25],
+          "hit_positions": [21, 22, 13, 24, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 17,
+          "positions": [21, 22, 33, 24, 25],
+          "hit_positions": [21, 22, 33, 24, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 18,
+          "positions": [11, 12, 33, 14, 15],
+          "hit_positions": [11, 12, 33, 14, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 19,
+          "positions": [31, 32, 13, 34, 35],
+          "hit_positions": [31, 32, 13, 34, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 20,
+          "positions": [11, 32, 33, 34, 15],
+          "hit_positions": [11, 32, 33, 34, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 21,
+          "positions": [31, 12, 13, 14, 35],
+          "hit_positions": [31, 12, 13, 14, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 22,
+          "positions": [21, 12, 33, 14, 35],
+          "hit_positions": [21, 12, 33, 14, 35],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 23,
+          "positions": [21, 32, 13, 34, 25],
+          "hit_positions": [21, 32, 13, 34, 25],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 24,
+          "positions": [11, 32, 13, 34, 15],
+          "hit_positions": [11, 32, 13, 34, 15],
+          "payout": 1.2,
+        },
+
+        {
+          "id": 25,
+          "positions": [31, 12, 33, 14, 35],
+          "hit_positions": [31, 12, 33, 14, 35],
+          "payout": 1.2,
+        },
+      ],
+    ],
+}

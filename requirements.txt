@@ -1,0 +1,8 @@
+playwright==1.58.0
+blackboxprotobuf==1.0.1
+pyyaml
+pytest==8.4.2
+opencv-python-headless
+numpy
+anthropic>=0.40.0
+Pillow>=10.0.0
